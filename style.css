@@ -6,6 +6,7 @@ html {
   background: white;
   font-family: 'Open Sans', sans-serif;
   color: #373D3F;
+  margin-bottom: 14vw;
 }
 h1 {
   font-family: 'Sirin Stencil', cursive;
@@ -16,12 +17,12 @@ h1 {
   margin-bottom: 10vw;
 }
 p {
-  margin-top: 7vw;
-  margin-bottom: 7vw;
+  margin-top: 12vw;
+  margin-bottom: 0vw;
   margin-left: 14vw;
   margin-right: 14vw;
   text-align: justify;
-  font-size: 3vw;
+  font-size: calc(1.04166667vw + 16px);
   font-weight: 300;
   line-height: 2.3em;
   letter-spacing: 0.5em;
@@ -29,8 +30,7 @@ p {
 }
 img {
   width: 100%;
-  margin-top: 7vw;
-  margin-bottom: 7vw;
+  margin-top: 14vw;
 }
 a {
   color: #373D3F;
